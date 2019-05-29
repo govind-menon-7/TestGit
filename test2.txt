@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 The initial text.
 what even
 Change is here again
 ri
 go
 CUFE
+=======
+The initial text.
+>>>>>>> 6ddb8ec26e611e14b79a2b790ccd7106f8d4544d
